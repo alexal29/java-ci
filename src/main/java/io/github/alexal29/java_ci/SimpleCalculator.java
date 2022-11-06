@@ -1,4 +1,4 @@
-package io.github.alexal29.java-ci;
+package io.github.alexal29.java_ci;
 
 public class SimpleCalculator {
 	public int add(int a, int b) {
