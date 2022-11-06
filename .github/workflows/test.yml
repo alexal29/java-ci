@@ -1,7 +1,7 @@
 # This workflow will build a package using Maven and then test it
 # For more information see: https://github.com/actions/setup-java/blob/main/docs/advanced-usage.md#apache-maven-with-a-settings-path
 
-name: Run Maven Tests on Push To Main
+name: test
 
 # This section specifies when this workflow is triggered
 # Here, we specify that it is triggered whenever there is a push to the `main` branch.

@@ -2,4 +2,4 @@
 
 Java CI example
 
-[![test](https://github.com/alexal29/java-ci/actions/workflows/run-maven-tests-on-push.yaml/badge.svg)](https://github.com/alexal29/java-ci/actions/workflows/run-maven-tests-on-push.yaml)
+[![test](https://github.com/alexal29/java-ci/actions/workflows/test.yml/badge.svg)](https://github.com/alexal29/java-ci/actions/workflows/test.yml)
